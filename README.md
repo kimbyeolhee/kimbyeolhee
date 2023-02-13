@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Byeolhee Kim
 * I am on a journey to become an **NLP engineer**.
 * Putting the value of business first. I believe that the language, frameworks, and methodologies we use are tools for delivering value.
-* My goal is to provide a service that allows anyone to challenge the job they want by reducing the repetitive labor of jobs, not AI replacing jobs.
+* My goal is to provide a service that allows anyone to challenge the job they want by reducing the repetitive works.
 ---- 
 
 ![Byeolhee Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbyeolhee&show_icons=true&bg_color=00000000)
