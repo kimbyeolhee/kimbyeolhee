@@ -1,8 +1,8 @@
-### 👋 Hi, I'm Byeolhee Kim
-* NLP Researcher
----- 
+### Currently, I am a ...
+- (2023.05 ~ present) ML Researcher @AMC
 
-![Byeolhee Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbyeolhee&show_icons=true&bg_color=00000000)
+### Interest
+* Natural Language Processing
 
 ---
 
