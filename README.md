@@ -6,4 +6,5 @@
 
 #### Interest
 * Natural Language Processing
-
+* Machine Learning for Healthcare
+* Multimodal Learning
