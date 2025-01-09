@@ -3,8 +3,3 @@
 
 #### Currently, I am a ...
 - (2023.05 ~ present) AI Researcher @AMC
-
-#### Interest
-* Machine Learning for Healthcare
-* Natural Language Processing
-  * Multi-modal LLM 
